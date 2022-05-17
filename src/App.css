@@ -9,9 +9,8 @@ html {
 }
 
 body {
-  /* background-color: #7f53ac;
-  background-image: linear-gradient(315deg, #7f53ac 0%, #647dee 74%); */
-  background-color: red;
+  background-color: #7f53ac;
+  background-image: linear-gradient(315deg, #7f53ac 0%, #647dee 74%);
   height: 100%;
   margin: 0;
   background-repeat: no-repeat;
@@ -21,7 +20,6 @@ body {
   align-items: center;
   max-width: 1420px;
   margin: 0 auto;
-
 }
 
 .input {
